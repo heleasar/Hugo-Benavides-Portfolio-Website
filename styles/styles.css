@@ -10,7 +10,7 @@ html {
 }
 
 body {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
     max-width: 100rem;
     margin: auto;
@@ -21,7 +21,7 @@ body {
     padding: 1rem 2rem;
     border-radius: 2rem;
     border: none;
-    background: linear-gradient(267deg, #4274ba 1%, #4d0057 100%);
+    background: linear-gradient(267deg, #3bf8ff 1%, #5341f8 100%);
     font-size: 1.2rem;
     text-decoration: none;
 }
@@ -41,7 +41,7 @@ body {
 }
 
 .text-effect {
-    background: linear-gradient(267deg, #4274ba 1%, #5000ac 100%);
+    background: linear-gradient(267deg, #28f8ff 1%, #5341f8 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
